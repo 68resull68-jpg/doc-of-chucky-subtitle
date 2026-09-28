@@ -1,0 +1,20 @@
+{
+  "id": "com.68resull68.docofchucky.subtitle",
+  "version": "1.0.0",
+  "name": "Doc of Chucky Türkçe Altyazı",
+  "description": "Doc of Chucky (2024) için Türkçe altyazı.",
+  "types": [
+    "movie"
+  ],
+  "resources": [
+    {
+      "name": "subtitles",
+      "types": [
+        "movie"
+      ],
+      "idPrefixes": [
+        "tt33546014"
+      ]
+    }
+  ]
+}
